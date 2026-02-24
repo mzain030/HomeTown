@@ -20,4 +20,4 @@ where area you linkind id
   )
 }
 
-export default Ghugh
+export default Ghugh ;

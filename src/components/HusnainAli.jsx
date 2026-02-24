@@ -20,7 +20,7 @@ const HusnainAli = () => {
                     Thankyou sir for your appreciation
                 </h2>
 
-                <button onClick={"ok"}>
+                <button onClick={()=>"ok"}>
                     Click Here
                 </button>
     
