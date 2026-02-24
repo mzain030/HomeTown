@@ -5,6 +5,7 @@ const Ghugh = () => {
     <div>
         Ghugh
 <h1>Now i done my github</h1>
+<h1>Noe i set mt linkin id</h1>
     </div>
   )
 }
