@@ -15,6 +15,7 @@ where area you linkind id
 <h1>ghugh adeel</h1>
 <input type='text' placeholder='okok'></input>
 <input type='text' placeholder='write here'></input>
+<input type='text'></input>
     </div>
   )
 }
