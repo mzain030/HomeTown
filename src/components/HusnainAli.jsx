@@ -4,10 +4,9 @@ const HusnainAli = () => {
   return (
     <div>
 <h1>Husnain Ali</h1>
+        <h1>Now i am working on git hub</h1>
 <input type='text' placeholder='write here'></input>
-        <h1>
-          
-                <h1 className='h1tag'>Husnain Ali</h1>
+                <h1 className='h1tag' id='ok'>Husnain Ali</h1>
                 <input type='text' placeholder='write here'/>
                 <button className='btn btn-primary'>one</button>
                 <p className='ptag'>
@@ -20,7 +19,11 @@ const HusnainAli = () => {
                 <h2>
                     Thankyou sir for your appreciation
                 </h2>
-        </h1>
+
+                <button onClick={"ok"}>
+                    Click Here
+                </button>
+    
         <input type='text' placeholder='umari'></input>
     </div>
   )
