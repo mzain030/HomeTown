@@ -11,6 +11,7 @@ const Zain = () => {
 </div>
 <button>Learn more</button>
 <input type='number' placeholder='ghugh'></input>
+<div style={{height:"100px", width:"200px",backgroundColor:"red"}}></div>
 
     </div>
   )
