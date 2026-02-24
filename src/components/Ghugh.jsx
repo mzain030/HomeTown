@@ -4,7 +4,7 @@ const Ghugh = () => {
   return (
     <div>
         Ghugh
-kjdsjkdsfds
+<h1>Now i done my github</h1>
     </div>
   )
 }
