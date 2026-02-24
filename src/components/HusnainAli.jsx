@@ -4,7 +4,7 @@ const HusnainAli = () => {
   return (
     <div>
 <h1>Husnain Ali</h1>
-        <h1>Now i am working on git hub</h1>
+        <h1 className='ok yes'>Now i am working on git hub</h1>
 <input type='text' placeholder='write here'></input>
                 <h1 className='h1tag' id='ok'>Husnain Ali</h1>
                 <input type='text' placeholder='write here'/>
