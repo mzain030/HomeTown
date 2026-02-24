@@ -13,6 +13,9 @@ const HusnainAli = () => {
                     yes its ok boy
                 </p>
                 <h2>kam krda aa pata chalda aa</h2>
+                <h2>
+                    Thankyou sir for your appreciation
+                </h2>
         </h1>
         <input type='text' placeholder='umari'></input>
     </div>

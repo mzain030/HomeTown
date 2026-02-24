@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import Zain from './components/Zain';
 import Ghugh from './components/Ghugh';
+import HusnainAli from './components/HusnainAli';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
 </div>
      <Zain/>
      <Ghugh/>
+     <HusnainAli/>
     </div>
   );
 }
