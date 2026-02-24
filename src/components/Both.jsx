@@ -4,6 +4,7 @@ const Both = () => {
   return (
     <div>
       Both components are here
+      its ok husnian and adeel 
     </div>
   )
 }
