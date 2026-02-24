@@ -3,6 +3,7 @@ import './App.css';
 import Zain from './components/Zain';
 import Ghugh from './components/Ghugh';
 import Hunain from './components/Hunain';
+import HusnainAli from './components/HusnainAli';
 
 function App() {
   return (
@@ -13,6 +14,8 @@ function App() {
      <Zain/>
      <Ghugh/>
      <Hunain/>
+     <HusnainAli/>
+     
     </div>
   );
 }

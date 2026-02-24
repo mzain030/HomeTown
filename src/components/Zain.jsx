@@ -9,6 +9,9 @@ const Zain = () => {
   <input type="text" class="form-control" placeholder="Recipient’s username" aria-label="Recipient’s username" aria-describedby="basic-addon2"/>
   <span class="input-group-text" id="basic-addon2">Bootstrap</span>
 </div>
+<button>Learn more</button>
+<input type='number' placeholder='ghugh'></input>
+<div style={{height:"100px", width:"200px",backgroundColor:"red"}}></div>
 
     </div>
   )
