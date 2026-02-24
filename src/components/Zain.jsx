@@ -10,6 +10,7 @@ const Zain = () => {
   <span class="input-group-text" id="basic-addon2">Bootstrap</span>
 </div>
 <button>Learn more</button>
+<input type='number' placeholder='ghugh'></input>
 
     </div>
   )
